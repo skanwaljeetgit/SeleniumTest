@@ -1,0 +1,243 @@
+15:33:27.016 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+15:33:27.016 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+15:33:27.101 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - Index Page load
+15:33:27.101 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - Index Page load
+15:33:27.159 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+15:33:27.159 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+15:33:27.160 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+15:33:27.167 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+15:37:07.993 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+15:37:08.047 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - Index Page load
+15:37:10.362 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+15:37:10.365 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - Index Page load
+15:37:10.387 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+15:37:10.387 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+15:37:10.409 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+15:37:10.410 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+20:16:04.645 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+20:16:04.684 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - Index Page load
+20:16:08.130 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+20:16:08.132 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - Index Page load
+20:16:08.710 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+20:16:08.710 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - Index Page load
+20:16:08.714 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+20:16:08.714 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+20:16:08.719 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+20:16:08.719 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+20:16:08.737 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+20:16:08.737 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+20:37:17.242 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+20:37:17.242 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+20:37:17.242 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+20:37:17.275 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - Index Page load
+20:37:17.275 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - Index Page load
+20:37:17.275 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - Index Page load
+20:37:17.296 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+20:37:17.296 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+20:37:17.296 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+20:37:17.296 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+20:37:17.297 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+20:37:17.297 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+20:43:41.980 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+20:43:41.980 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+20:43:41.980 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+20:43:42.020 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - Index Page load
+20:43:42.020 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - Index Page load
+20:43:42.021 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - Index Page load
+20:43:42.043 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+20:43:42.043 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+20:43:42.043 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+20:43:42.043 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+20:43:42.045 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+20:43:42.045 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+22:27:43.412 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+22:27:43.440 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - Index Page load
+22:27:43.457 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+22:27:43.457 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+22:28:12.621 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+22:28:12.622 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - Index Page load
+22:28:12.633 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+22:28:12.634 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+22:29:14.717 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+22:29:14.717 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+22:29:14.717 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+22:29:14.753 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - Index Page load
+22:29:14.754 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - Index Page load
+22:29:14.753 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - Index Page load
+22:29:14.798 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+22:29:14.798 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+22:29:14.798 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+22:29:14.798 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+22:29:14.799 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+22:29:14.798 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+22:30:25.520 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+22:30:25.520 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+22:30:25.520 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+22:30:25.552 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - Index Page load
+22:30:25.552 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - Index Page load
+22:30:25.552 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - Index Page load
+22:30:25.571 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+22:30:25.571 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+22:30:25.572 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+22:30:25.572 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+22:30:25.575 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+22:30:25.575 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+22:34:25.466 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+22:34:25.493 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - Index Page load
+22:34:25.508 [TestNG-tests-2] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: storeTitleTest storeTitle_Not_Found expected [My Store] but found [508 Resource Limit Is Reached] Failed******************************************
+22:34:25.513 [TestNG-tests-2] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+22:34:42.678 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+22:34:42.679 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - Index Page load
+22:34:42.692 [TestNG-tests-3] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: storeTitleTest storeTitle_Not_Found expected [My Store] but found [508 Resource Limit Is Reached] Failed******************************************
+22:34:42.693 [TestNG-tests-3] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+22:34:48.282 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+22:34:48.283 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - Index Page load
+22:34:48.296 [TestNG-tests-1] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: storeTitleTest storeTitle_Not_Found expected [My Store] but found [508 Resource Limit Is Reached] Failed******************************************
+22:34:48.296 [TestNG-tests-1] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+22:36:08.051 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+22:36:08.051 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+22:36:08.084 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - Index Page load
+22:36:08.084 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - Index Page load
+22:36:08.103 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+22:36:08.104 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+22:36:08.106 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+22:36:08.106 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+22:36:08.118 [TestNG-tests-1] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: storeTitleTest null Failed******************************************
+22:36:08.119 [TestNG-tests-1] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+22:36:08.120 [TestNG-tests-3] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: storeTitleTest null Failed******************************************
+22:36:08.120 [TestNG-tests-3] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+22:37:17.810 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+22:37:17.811 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - Index Page load
+22:37:17.818 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+22:37:17.818 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+22:37:17.820 [TestNG-tests-2] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: storeTitleTest null Failed******************************************
+22:37:17.820 [TestNG-tests-2] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+22:38:30.841 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+22:38:30.920 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - Index Page load
+22:38:31.414 [TestNG-tests-1] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: storeTitleTest storeTitle_Not_Found expected [My Store] but found [508 Resource Limit Is Reached] Failed******************************************
+22:38:32.054 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+22:38:32.056 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - Index Page load
+22:38:32.081 [TestNG-tests-3] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: storeTitleTest storeTitle_Not_Found expected [My Store] but found [508 Resource Limit Is Reached] Failed******************************************
+22:39:22.181 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+22:39:22.182 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - Index Page load
+22:39:22.197 [TestNG-tests-2] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: storeTitleTest storeTitle_Not_Found expected [My Store] but found [508 Resource Limit Is Reached] Failed******************************************
+22:42:18.831 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+22:42:18.872 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - Index Page load
+22:42:18.968 [TestNG-tests-1] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: storeTitleTest storeTitle_Not_Found expected [My Store] but found [508 Resource Limit Is Reached] Failed******************************************
+22:42:35.172 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+22:42:35.174 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - Index Page load
+22:42:35.195 [TestNG-tests-3] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: storeTitleTest storeTitle_Not_Found expected [My Store] but found [508 Resource Limit Is Reached] Failed******************************************
+22:43:02.649 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+22:43:02.650 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - Index Page load
+22:43:02.661 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+22:43:02.661 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+22:44:07.934 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+22:44:07.998 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - Index Page load
+22:44:08.027 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+22:44:08.030 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - Index Page load
+22:44:08.411 [TestNG-tests-3] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: storeTitleTest storeTitle_Not_Found expected [My Store] but found [508 Resource Limit Is Reached] Failed******************************************
+22:44:08.415 [TestNG-tests-1] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: storeTitleTest storeTitle_Not_Found expected [My Store] but found [508 Resource Limit Is Reached] Failed******************************************
+22:44:23.073 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+22:44:23.074 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - Index Page load
+22:44:23.092 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+22:44:23.092 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+22:46:19.168 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+22:46:19.169 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+22:46:19.168 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+22:46:19.235 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - Index Page load
+22:46:19.235 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - Index Page load
+22:46:19.236 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - Index Page load
+22:46:19.259 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+22:46:19.260 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+22:46:19.263 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+22:46:19.263 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+22:46:19.264 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+22:46:19.265 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+23:35:00.003 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+23:35:00.003 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+23:35:00.043 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - Index Page load
+23:35:00.043 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - Index Page load
+23:35:00.063 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+23:35:00.064 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+23:35:00.068 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+23:35:00.068 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+23:37:06.341 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+23:37:06.341 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+23:37:06.341 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+23:37:06.376 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - Index Page load
+23:37:06.376 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - Index Page load
+23:37:06.376 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - Index Page load
+23:37:06.399 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+23:37:06.400 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+23:37:06.401 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+23:37:06.402 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+23:37:06.402 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+23:37:06.403 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+23:44:58.064 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+23:44:58.064 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+23:44:58.064 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+23:44:58.101 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - Index Page load
+23:44:58.101 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - Index Page load
+23:44:58.101 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - Index Page load
+23:44:58.129 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+23:44:58.129 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+23:44:58.130 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+23:44:58.130 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+23:44:58.134 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+23:44:58.135 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+23:45:55.970 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+23:45:55.970 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+23:45:56.014 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - Index Page load
+23:45:56.014 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - Index Page load
+23:45:56.040 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+23:45:56.041 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+23:45:56.041 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+23:45:56.041 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+23:47:40.498 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+23:47:40.499 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - Index Page load
+23:47:40.512 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+23:47:40.512 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+23:49:28.858 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+23:49:28.858 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+23:49:28.910 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - Index Page load
+23:49:28.910 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - Index Page load
+23:49:28.945 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+23:49:28.945 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+23:49:28.947 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+23:49:28.947 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+23:51:28.576 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+23:51:28.578 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - Index Page load
+23:51:28.588 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+23:51:28.588 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+23:52:08.231 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+23:52:08.231 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+23:52:08.231 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+23:52:08.274 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - Index Page load
+23:52:08.274 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - Index Page load
+23:52:08.274 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - Index Page load
+23:52:08.295 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+23:52:08.295 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+23:52:08.296 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+23:52:08.295 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+23:52:08.296 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+23:52:08.296 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+23:55:40.013 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+23:55:40.013 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+23:55:40.083 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - Index Page load
+23:55:40.083 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - Index Page load
+23:55:40.119 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+23:55:40.120 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+23:55:40.125 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+23:55:40.126 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+23:59:08.556 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+23:59:08.556 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+23:59:08.556 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+23:59:08.612 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - Index Page load
+23:59:08.612 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - Index Page load
+23:59:08.612 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - Index Page load
+23:59:08.634 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+23:59:08.634 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+23:59:08.634 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+23:59:08.635 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+23:59:08.635 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+23:59:08.635 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************

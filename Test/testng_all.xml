@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="All">
+	<listeners>
+		<listener class-name="Selenium.Test.Utility.ListenerClass"></listener>
+	</listeners>
+	<test thread-count="5" name="ChromeTest">
+		<parameter name="browserName" value="chrome"></parameter>
+		<classes>
+			<class name="Selenium.Test.TestCases.LoginPageTest" />
+			<class name="Selenium.Test.TestCases.EndToEndTest" />
+			<class name="Selenium.Test.TestCases.AccountCreationPageTest" />
+			<class name="Selenium.Test.TestCases.IndexPageTest" />
+			<class name="Selenium.Test.TestCases.SearchResultPageTest" />
+			<class name="Selenium.Test.TestCases.HomePageTest" />
+			<class name="Selenium.Test.TestCases.OrderPageTest" />
+			<class name="Selenium.Test.TestCases.AddToCartPageTest" />
+		</classes>
+	</test>
+</suite>   

@@ -1,0 +1,416 @@
+14:04:55.890 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: loginTest null Failed******************************************
+14:04:55.901 [main] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+14:05:00.442 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: endToEndTest null Failed******************************************
+14:05:00.442 [main] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+14:05:01.670 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: accountCreatePageTest null Failed******************************************
+14:05:01.671 [main] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+14:05:03.404 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: storeTitleTest null Failed******************************************
+14:05:03.405 [main] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+14:05:04.559 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: productAvailabilityTest null Failed******************************************
+14:05:04.559 [main] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+14:05:05.665 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: orderHistoryDetailLabelTest null Failed******************************************
+14:05:05.666 [main] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+14:05:06.749 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: totalPriceTest null Failed******************************************
+14:05:06.749 [main] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+14:05:07.717 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: addToCartTest null Failed******************************************
+14:05:07.718 [main] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+14:08:55.677 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: loginTest null Failed******************************************
+14:08:55.689 [main] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+14:08:57.666 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: endToEndTest null Failed******************************************
+14:08:57.667 [main] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+14:08:59.656 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: accountCreatePageTest null Failed******************************************
+14:08:59.656 [main] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+14:09:01.958 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: storeTitleTest null Failed******************************************
+14:09:01.958 [main] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+14:09:03.686 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: productAvailabilityTest null Failed******************************************
+14:09:03.686 [main] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+14:09:05.386 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: orderHistoryDetailLabelTest null Failed******************************************
+14:09:05.387 [main] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+14:09:07.595 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: totalPriceTest null Failed******************************************
+14:09:07.595 [main] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+14:09:09.444 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: addToCartTest null Failed******************************************
+14:09:09.446 [main] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+14:10:27.133 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: loginTest null Failed******************************************
+14:10:27.146 [main] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+14:10:29.070 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: endToEndTest null Failed******************************************
+14:10:29.073 [main] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+14:10:30.673 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: accountCreatePageTest null Failed******************************************
+14:10:30.673 [main] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+14:10:33.078 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: storeTitleTest null Failed******************************************
+14:10:33.100 [main] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+14:10:34.944 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: productAvailabilityTest null Failed******************************************
+14:10:34.944 [main] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+14:10:36.751 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: orderHistoryDetailLabelTest null Failed******************************************
+14:10:36.752 [main] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+14:10:39.390 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: totalPriceTest null Failed******************************************
+14:10:39.395 [main] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+14:10:41.176 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: addToCartTest null Failed******************************************
+14:10:41.186 [main] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+14:12:23.590 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: loginTest null Failed******************************************
+14:12:23.601 [main] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+14:12:25.706 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: endToEndTest null Failed******************************************
+14:12:25.716 [main] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+14:12:27.555 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: accountCreatePageTest null Failed******************************************
+14:12:27.557 [main] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+14:12:30.070 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: storeTitleTest null Failed******************************************
+14:12:30.070 [main] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+14:12:32.123 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: productAvailabilityTest null Failed******************************************
+14:12:32.123 [main] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+14:12:34.026 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: orderHistoryDetailLabelTest null Failed******************************************
+14:12:34.041 [main] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+14:12:36.796 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: totalPriceTest null Failed******************************************
+14:12:36.796 [main] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+14:12:39.489 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: addToCartTest null Failed******************************************
+14:12:39.489 [main] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+14:16:17.859 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: loginTest null Failed******************************************
+14:16:17.869 [main] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+14:16:30.448 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: endToEndTest null Failed******************************************
+14:16:30.449 [main] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+14:16:40.119 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: accountCreatePageTest null Failed******************************************
+14:16:40.120 [main] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+14:16:48.849 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: storeTitleTest null Failed******************************************
+14:16:48.850 [main] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+14:16:57.420 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: productAvailabilityTest null Failed******************************************
+14:16:57.421 [main] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+14:19:54.251 [main] INFO  Selenium.Test.Utility.Log - ********************************Started loginTest*****************************************
+14:19:54.282 [main] INFO  Selenium.Test.Utility.Log - Index Page load
+14:19:59.269 [main] INFO  Selenium.Test.Utility.Log - Click on SignIn
+14:20:09.332 [main] INFO  Selenium.Test.Utility.Log - Element not found
+14:20:09.345 [main] ERROR Selenium.Test.Utility.Log - *********************************no such element: Unable to locate element: {"method":"css selector","selector":"#email1"}
+  (Session info: chrome=105.0.5195.54)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'IN-9H42M63', ip: '192.168.29.63', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.54, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\KANWAL~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59345}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 627c90381fa2859c79398ea34e9c5b01
+*** Element info: {Using=id, value=email1} Failed******************************************
+14:20:09.347 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: loginTest no_such_element:_Unable_to_locate_element:_{"method":"css_selector","selector":"#email1"}
+__(Session_info:_chrome=105.0.5195.54)
+For_documentation_on_this_error,_please_visit:_https://www.seleniumhq.org/exceptions/no_such_element.html
+Build_info:_version:_'3.141.59',_revision:_'e82be7d358',_time:_'2018-11-14T08:17:03'
+System_info:_host:_'IN-9H42M63',_ip:_'192.168.29.63',_os.name:_'Windows_11',_os.arch:_'amd64',_os.version:_'10.0',_java.version:_'11.0.15.1'
+Driver_info:_org.openqa.selenium.chrome.ChromeDriver
+Capabilities_{acceptInsecureCerts:_false,_browserName:_chrome,_browserVersion:_105.0.5195.54,_chrome:_{chromedriverVersion:_105.0.5195.52_(412c95e51883...,_userDataDir:_C:\Users\KANWAL~1\AppData\L...},_goog:chromeOptions:_{debuggerAddress:_localhost:59345},_javascriptEnabled:_true,_networkConnectionEnabled:_false,_pageLoadStrategy:_normal,_platform:_WINDOWS,_platformName:_WINDOWS,_proxy:_Proxy(),_setWindowRect:_true,_strictFileInteractability:_false,_timeouts:_{implicit:_0,_pageLoad:_300000,_script:_30000},_unhandledPromptBehavior:_dismiss_and_notify,_webauthn:extension:credBlob:_true,_webauthn:extension:largeBlob:_true,_webauthn:virtualAuthenticators:_true}
+Session_ID:_627c90381fa2859c79398ea34e9c5b01
+***_Element_info:_{Using=id,_value=email1} Failed******************************************
+14:20:18.550 [main] INFO  Selenium.Test.Utility.Log - ********************************Started endToEndTest*****************************************
+14:20:18.551 [main] INFO  Selenium.Test.Utility.Log - Index Page load
+14:20:23.894 [main] INFO  Selenium.Test.Utility.Log - Entered product name: t-shirt
+14:20:23.895 [main] INFO  Selenium.Test.Utility.Log - Search Result Page loaded
+14:20:28.085 [main] INFO  Selenium.Test.Utility.Log - Clicked on product on Search Result Page
+14:20:28.295 [main] INFO  Selenium.Test.Utility.Log - Entered quantity: 2
+14:20:28.528 [main] INFO  Selenium.Test.Utility.Log - Selected size: M
+14:20:28.685 [main] INFO  Selenium.Test.Utility.Log - Clicked on Add to Cart button
+14:20:34.432 [main] INFO  Selenium.Test.Utility.Log - Clicked on Proceed to Checkout button on Add to Cart page
+14:20:40.426 [main] INFO  Selenium.Test.Utility.Log - Clicked on Proceed to Checkout button on Order page
+14:20:50.461 [main] INFO  Selenium.Test.Utility.Log - Element not found
+14:20:50.461 [main] ERROR Selenium.Test.Utility.Log - *********************************no such element: Unable to locate element: {"method":"css selector","selector":"#email1"}
+  (Session info: chrome=105.0.5195.54)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'IN-9H42M63', ip: '192.168.29.63', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.54, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\KANWAL~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59398}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: aeee47d281db589d52974e5aa45bd2bf
+*** Element info: {Using=id, value=email1} Failed******************************************
+14:20:50.471 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: endToEndTest no_such_element:_Unable_to_locate_element:_{"method":"css_selector","selector":"#email1"}
+__(Session_info:_chrome=105.0.5195.54)
+For_documentation_on_this_error,_please_visit:_https://www.seleniumhq.org/exceptions/no_such_element.html
+Build_info:_version:_'3.141.59',_revision:_'e82be7d358',_time:_'2018-11-14T08:17:03'
+System_info:_host:_'IN-9H42M63',_ip:_'192.168.29.63',_os.name:_'Windows_11',_os.arch:_'amd64',_os.version:_'10.0',_java.version:_'11.0.15.1'
+Driver_info:_org.openqa.selenium.chrome.ChromeDriver
+Capabilities_{acceptInsecureCerts:_false,_browserName:_chrome,_browserVersion:_105.0.5195.54,_chrome:_{chromedriverVersion:_105.0.5195.52_(412c95e51883...,_userDataDir:_C:\Users\KANWAL~1\AppData\L...},_goog:chromeOptions:_{debuggerAddress:_localhost:59398},_javascriptEnabled:_true,_networkConnectionEnabled:_false,_pageLoadStrategy:_normal,_platform:_WINDOWS,_platformName:_WINDOWS,_proxy:_Proxy(),_setWindowRect:_true,_strictFileInteractability:_false,_timeouts:_{implicit:_0,_pageLoad:_300000,_script:_30000},_unhandledPromptBehavior:_dismiss_and_notify,_webauthn:extension:credBlob:_true,_webauthn:extension:largeBlob:_true,_webauthn:virtualAuthenticators:_true}
+Session_ID:_aeee47d281db589d52974e5aa45bd2bf
+***_Element_info:_{Using=id,_value=email1} Failed******************************************
+14:20:59.732 [main] INFO  Selenium.Test.Utility.Log - ********************************Started accountCreatePageTest*****************************************
+14:20:59.732 [main] INFO  Selenium.Test.Utility.Log - Index Page load
+14:21:03.088 [main] INFO  Selenium.Test.Utility.Log - Clicked on Sign in button
+14:21:03.532 [main] INFO  Selenium.Test.Utility.Log - Entered Email address for account creation: test123123123123@test.com
+14:21:05.188 [main] INFO  Selenium.Test.Utility.Log - Element displayed
+14:21:05.191 [main] INFO  Selenium.Test.Utility.Log - createAccountFormHeader validated successfully
+14:21:05.191 [main] INFO  Selenium.Test.Utility.Log - *********************************Ended accountCreatePageTest******************************************
+14:21:13.777 [main] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+14:21:13.778 [main] INFO  Selenium.Test.Utility.Log - Index Page load
+14:21:13.785 [main] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+14:21:13.786 [main] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+14:21:22.379 [main] INFO  Selenium.Test.Utility.Log - ********************************Started productAvailabilityTest*****************************************
+14:21:22.379 [main] INFO  Selenium.Test.Utility.Log - Index Page load
+14:21:25.355 [main] INFO  Selenium.Test.Utility.Log - Entered product name: t-shirt
+14:21:25.356 [main] INFO  Selenium.Test.Utility.Log - Search Result Page loaded
+14:21:25.438 [main] INFO  Selenium.Test.Utility.Log - Element displayed
+14:21:25.438 [main] INFO  Selenium.Test.Utility.Log - productAvailability validated successfully
+14:21:25.438 [main] INFO  Selenium.Test.Utility.Log - *********************************Ended productAvailabilityTest******************************************
+14:21:34.504 [main] INFO  Selenium.Test.Utility.Log - ********************************Started orderHistoryDetailLabelTest*****************************************
+14:21:34.505 [main] INFO  Selenium.Test.Utility.Log - Index Page load
+14:21:36.807 [main] INFO  Selenium.Test.Utility.Log - Clicked on Sign in button
+14:21:46.841 [main] INFO  Selenium.Test.Utility.Log - Element not found
+14:21:46.849 [main] ERROR Selenium.Test.Utility.Log - *********************************no such element: Unable to locate element: {"method":"css selector","selector":"#email1"}
+  (Session info: chrome=105.0.5195.54)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'IN-9H42M63', ip: '192.168.29.63', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.54, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\KANWAL~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59606}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3c27b7e155667f250c37e7e9f267c66d
+*** Element info: {Using=id, value=email1} Failed******************************************
+14:21:46.850 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: orderHistoryDetailLabelTest no_such_element:_Unable_to_locate_element:_{"method":"css_selector","selector":"#email1"}
+__(Session_info:_chrome=105.0.5195.54)
+For_documentation_on_this_error,_please_visit:_https://www.seleniumhq.org/exceptions/no_such_element.html
+Build_info:_version:_'3.141.59',_revision:_'e82be7d358',_time:_'2018-11-14T08:17:03'
+System_info:_host:_'IN-9H42M63',_ip:_'192.168.29.63',_os.name:_'Windows_11',_os.arch:_'amd64',_os.version:_'10.0',_java.version:_'11.0.15.1'
+Driver_info:_org.openqa.selenium.chrome.ChromeDriver
+Capabilities_{acceptInsecureCerts:_false,_browserName:_chrome,_browserVersion:_105.0.5195.54,_chrome:_{chromedriverVersion:_105.0.5195.52_(412c95e51883...,_userDataDir:_C:\Users\KANWAL~1\AppData\L...},_goog:chromeOptions:_{debuggerAddress:_localhost:59606},_javascriptEnabled:_true,_networkConnectionEnabled:_false,_pageLoadStrategy:_normal,_platform:_WINDOWS,_platformName:_WINDOWS,_proxy:_Proxy(),_setWindowRect:_true,_strictFileInteractability:_false,_timeouts:_{implicit:_0,_pageLoad:_300000,_script:_30000},_unhandledPromptBehavior:_dismiss_and_notify,_webauthn:extension:credBlob:_true,_webauthn:extension:largeBlob:_true,_webauthn:virtualAuthenticators:_true}
+Session_ID:_3c27b7e155667f250c37e7e9f267c66d
+***_Element_info:_{Using=id,_value=email1} Failed******************************************
+14:21:54.985 [main] INFO  Selenium.Test.Utility.Log - ********************************Started totalPriceTest*****************************************
+14:21:54.985 [main] INFO  Selenium.Test.Utility.Log - Index Page load
+14:21:57.106 [main] INFO  Selenium.Test.Utility.Log - Entered product name: t-shirt
+14:21:57.106 [main] INFO  Selenium.Test.Utility.Log - Search Result Page loaded
+14:22:00.861 [main] INFO  Selenium.Test.Utility.Log - Clicked on product on Search Result Page
+14:22:01.069 [main] INFO  Selenium.Test.Utility.Log - Entered quantity: 2
+14:22:01.287 [main] INFO  Selenium.Test.Utility.Log - Selected size: M
+14:22:01.404 [main] INFO  Selenium.Test.Utility.Log - Clicked on Add to Cart button
+14:22:05.598 [main] INFO  Selenium.Test.Utility.Log - Clicked on Proceed to Checkout button on Add to Cart page
+14:22:05.701 [main] INFO  Selenium.Test.Utility.Log - totalExpectedPrice validated successfully
+14:22:05.701 [main] INFO  Selenium.Test.Utility.Log - *********************************Ended totalPriceTest******************************************
+14:22:13.829 [main] INFO  Selenium.Test.Utility.Log - ********************************Started addToCartTest*****************************************
+14:22:13.830 [main] INFO  Selenium.Test.Utility.Log - Index Page load
+14:22:14.281 [main] INFO  Selenium.Test.Utility.Log - Entered product name: t-shirt
+14:22:14.281 [main] INFO  Selenium.Test.Utility.Log - Search Result Page loaded
+14:22:20.010 [main] INFO  Selenium.Test.Utility.Log - Clicked on product on Search Result Page
+14:22:20.177 [main] INFO  Selenium.Test.Utility.Log - Entered quantity: 2
+14:22:20.368 [main] INFO  Selenium.Test.Utility.Log - Selected size: M
+14:22:20.493 [main] INFO  Selenium.Test.Utility.Log - Clicked on Add to Cart button
+14:22:22.801 [main] INFO  Selenium.Test.Utility.Log - Element displayed
+14:22:22.801 [main] INFO  Selenium.Test.Utility.Log - addToCartMessage validated successfully
+14:22:22.801 [main] INFO  Selenium.Test.Utility.Log - *********************************Ended addToCartTest******************************************
+14:25:15.079 [main] INFO  Selenium.Test.Utility.Log - ********************************Started loginTest*****************************************
+14:25:15.118 [main] INFO  Selenium.Test.Utility.Log - Index Page load
+14:25:19.682 [main] INFO  Selenium.Test.Utility.Log - Click on SignIn
+14:25:26.013 [main] INFO  Selenium.Test.Utility.Log - Entered Email address: test12312312312@gmail.comand password: ABC123 for login
+14:25:26.023 [main] INFO  Selenium.Test.Utility.Log - Log in validated successfully
+14:25:26.023 [main] INFO  Selenium.Test.Utility.Log - *********************************Ended loginTest******************************************
+14:25:37.044 [main] INFO  Selenium.Test.Utility.Log - ********************************Started endToEndTest*****************************************
+14:25:37.044 [main] INFO  Selenium.Test.Utility.Log - Index Page load
+14:25:37.380 [main] INFO  Selenium.Test.Utility.Log - Entered product name: t-shirt
+14:25:37.380 [main] INFO  Selenium.Test.Utility.Log - Search Result Page loaded
+14:25:43.999 [main] INFO  Selenium.Test.Utility.Log - Clicked on product on Search Result Page
+14:25:44.145 [main] INFO  Selenium.Test.Utility.Log - Entered quantity: 2
+14:25:44.306 [main] INFO  Selenium.Test.Utility.Log - Selected size: M
+14:25:44.425 [main] INFO  Selenium.Test.Utility.Log - Clicked on Add to Cart button
+14:25:50.951 [main] INFO  Selenium.Test.Utility.Log - Clicked on Proceed to Checkout button on Add to Cart page
+14:25:56.975 [main] INFO  Selenium.Test.Utility.Log - Clicked on Proceed to Checkout button on Order page
+14:26:01.885 [main] INFO  Selenium.Test.Utility.Log - User logged in
+14:26:04.504 [main] INFO  Selenium.Test.Utility.Log - Clicked on Proceed to Checkout button on Shipping Page
+14:26:04.566 [main] INFO  Selenium.Test.Utility.Log - Checked Terms checkbox on Shipping Page
+14:26:08.609 [main] INFO  Selenium.Test.Utility.Log - Clicked on Proceed to Checkout button on Payment Page
+14:26:11.391 [main] INFO  Selenium.Test.Utility.Log - Clicked on Payment Method on Order Summary Page
+14:26:15.624 [main] INFO  Selenium.Test.Utility.Log - Clicked on Confirm Order button on Order Summary Page
+14:26:15.666 [main] INFO  Selenium.Test.Utility.Log - confirmOrderMessage validated successfully
+14:26:15.667 [main] INFO  Selenium.Test.Utility.Log - *********************************Ended endToEndTest******************************************
+14:26:26.472 [main] INFO  Selenium.Test.Utility.Log - ********************************Started accountCreatePageTest*****************************************
+14:26:26.474 [main] INFO  Selenium.Test.Utility.Log - Index Page load
+14:26:29.206 [main] INFO  Selenium.Test.Utility.Log - Clicked on Sign in button
+14:26:29.675 [main] INFO  Selenium.Test.Utility.Log - Entered Email address for account creation: test123123123123@test.com
+14:26:31.534 [main] INFO  Selenium.Test.Utility.Log - Element displayed
+14:26:31.535 [main] INFO  Selenium.Test.Utility.Log - createAccountFormHeader validated successfully
+14:26:31.535 [main] INFO  Selenium.Test.Utility.Log - *********************************Ended accountCreatePageTest******************************************
+14:26:42.111 [main] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+14:26:42.112 [main] INFO  Selenium.Test.Utility.Log - Index Page load
+14:26:42.118 [main] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+14:26:42.118 [main] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+14:26:57.716 [main] INFO  Selenium.Test.Utility.Log - ********************************Started productAvailabilityTest*****************************************
+14:26:57.716 [main] INFO  Selenium.Test.Utility.Log - Index Page load
+14:27:04.282 [main] INFO  Selenium.Test.Utility.Log - Entered product name: t-shirt
+14:27:04.283 [main] INFO  Selenium.Test.Utility.Log - Search Result Page loaded
+14:27:04.374 [main] INFO  Selenium.Test.Utility.Log - Element displayed
+14:27:04.374 [main] INFO  Selenium.Test.Utility.Log - productAvailability validated successfully
+14:27:04.374 [main] INFO  Selenium.Test.Utility.Log - *********************************Ended productAvailabilityTest******************************************
+14:27:13.850 [main] INFO  Selenium.Test.Utility.Log - ********************************Started orderHistoryDetailLabelTest*****************************************
+14:27:13.850 [main] INFO  Selenium.Test.Utility.Log - Index Page load
+14:27:19.871 [main] INFO  Selenium.Test.Utility.Log - Clicked on Sign in button
+14:27:29.035 [main] INFO  Selenium.Test.Utility.Log - Entered Email address: test12312312312@gmail.comand password: ABC123 for login
+14:27:29.137 [main] INFO  Selenium.Test.Utility.Log - Element displayed
+14:27:29.137 [main] INFO  Selenium.Test.Utility.Log - orderHistory label validated successfully
+14:27:29.137 [main] INFO  Selenium.Test.Utility.Log - *********************************Ended orderHistoryDetailLabelTest******************************************
+14:27:40.757 [main] INFO  Selenium.Test.Utility.Log - ********************************Started totalPriceTest*****************************************
+14:27:40.758 [main] INFO  Selenium.Test.Utility.Log - Index Page load
+14:27:44.443 [main] INFO  Selenium.Test.Utility.Log - Entered product name: t-shirt
+14:27:44.444 [main] INFO  Selenium.Test.Utility.Log - Search Result Page loaded
+14:27:47.987 [main] INFO  Selenium.Test.Utility.Log - Clicked on product on Search Result Page
+14:27:48.178 [main] INFO  Selenium.Test.Utility.Log - Entered quantity: 2
+14:27:48.383 [main] INFO  Selenium.Test.Utility.Log - Selected size: M
+14:27:48.539 [main] INFO  Selenium.Test.Utility.Log - Clicked on Add to Cart button
+14:27:54.441 [main] INFO  Selenium.Test.Utility.Log - Clicked on Proceed to Checkout button on Add to Cart page
+14:27:54.546 [main] INFO  Selenium.Test.Utility.Log - totalExpectedPrice validated successfully
+14:27:54.546 [main] INFO  Selenium.Test.Utility.Log - *********************************Ended totalPriceTest******************************************
+14:28:05.504 [main] INFO  Selenium.Test.Utility.Log - ********************************Started addToCartTest*****************************************
+14:28:05.504 [main] INFO  Selenium.Test.Utility.Log - Index Page load
+14:28:08.624 [main] INFO  Selenium.Test.Utility.Log - Entered product name: t-shirt
+14:28:08.624 [main] INFO  Selenium.Test.Utility.Log - Search Result Page loaded
+14:28:12.834 [main] INFO  Selenium.Test.Utility.Log - Clicked on product on Search Result Page
+14:28:13.016 [main] INFO  Selenium.Test.Utility.Log - Entered quantity: 2
+14:28:13.237 [main] INFO  Selenium.Test.Utility.Log - Selected size: M
+14:28:13.477 [main] INFO  Selenium.Test.Utility.Log - Clicked on Add to Cart button
+14:28:15.812 [main] INFO  Selenium.Test.Utility.Log - Element displayed
+14:28:15.812 [main] INFO  Selenium.Test.Utility.Log - addToCartMessage validated successfully
+14:28:15.812 [main] INFO  Selenium.Test.Utility.Log - *********************************Ended addToCartTest******************************************
+14:36:00.647 [main] INFO  Selenium.Test.Utility.Log - ********************************Started loginTest*****************************************
+14:36:00.679 [main] INFO  Selenium.Test.Utility.Log - Index Page load
+14:36:06.090 [main] INFO  Selenium.Test.Utility.Log - Click on SignIn
+14:36:10.858 [main] INFO  Selenium.Test.Utility.Log - Entered Email address: test12312312312@gmail.comand password: ABC123 for login
+14:36:10.881 [main] INFO  Selenium.Test.Utility.Log - Log in validated successfully
+14:36:10.882 [main] INFO  Selenium.Test.Utility.Log - *********************************Ended loginTest******************************************
+14:36:10.904 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: loginTest null Failed******************************************
+14:36:10.905 [main] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+14:36:23.751 [main] INFO  Selenium.Test.Utility.Log - ********************************Started endToEndTest*****************************************
+14:36:23.752 [main] INFO  Selenium.Test.Utility.Log - Index Page load
+14:36:28.631 [main] INFO  Selenium.Test.Utility.Log - Entered product name: t-shirt
+14:36:28.632 [main] INFO  Selenium.Test.Utility.Log - Search Result Page loaded
+14:36:33.060 [main] INFO  Selenium.Test.Utility.Log - Clicked on product on Search Result Page
+14:36:33.247 [main] INFO  Selenium.Test.Utility.Log - Entered quantity: 2
+14:36:33.466 [main] INFO  Selenium.Test.Utility.Log - Selected size: M
+14:36:33.618 [main] INFO  Selenium.Test.Utility.Log - Clicked on Add to Cart button
+14:36:40.222 [main] INFO  Selenium.Test.Utility.Log - Clicked on Proceed to Checkout button on Add to Cart page
+14:36:48.917 [main] INFO  Selenium.Test.Utility.Log - Clicked on Proceed to Checkout button on Order page
+14:36:56.602 [main] INFO  Selenium.Test.Utility.Log - User logged in
+14:37:00.046 [main] INFO  Selenium.Test.Utility.Log - Clicked on Proceed to Checkout button on Shipping Page
+14:37:00.139 [main] INFO  Selenium.Test.Utility.Log - Checked Terms checkbox on Shipping Page
+14:37:06.108 [main] INFO  Selenium.Test.Utility.Log - Clicked on Proceed to Checkout button on Payment Page
+14:37:09.448 [main] INFO  Selenium.Test.Utility.Log - Clicked on Payment Method on Order Summary Page
+14:37:14.815 [main] INFO  Selenium.Test.Utility.Log - Clicked on Confirm Order button on Order Summary Page
+14:37:14.853 [main] INFO  Selenium.Test.Utility.Log - confirmOrderMessage validated successfully
+14:37:14.854 [main] INFO  Selenium.Test.Utility.Log - *********************************Ended endToEndTest******************************************
+14:37:14.856 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: endToEndTest null Failed******************************************
+14:37:14.857 [main] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+14:37:26.042 [main] INFO  Selenium.Test.Utility.Log - ********************************Started accountCreatePageTest*****************************************
+14:37:26.043 [main] INFO  Selenium.Test.Utility.Log - Index Page load
+14:37:29.023 [main] INFO  Selenium.Test.Utility.Log - Clicked on Sign in button
+14:37:29.435 [main] INFO  Selenium.Test.Utility.Log - Entered Email address for account creation: test123123123123@test.com
+14:37:31.177 [main] INFO  Selenium.Test.Utility.Log - Element displayed
+14:37:31.177 [main] INFO  Selenium.Test.Utility.Log - createAccountFormHeader validated successfully
+14:37:31.177 [main] INFO  Selenium.Test.Utility.Log - *********************************Ended accountCreatePageTest******************************************
+14:37:31.181 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: accountCreatePageTest null Failed******************************************
+14:37:31.181 [main] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+14:37:40.497 [main] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+14:37:40.497 [main] INFO  Selenium.Test.Utility.Log - Index Page load
+14:37:40.503 [main] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+14:37:40.503 [main] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+14:37:40.505 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: storeTitleTest null Failed******************************************
+14:37:40.506 [main] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+14:37:55.189 [main] INFO  Selenium.Test.Utility.Log - ********************************Started productAvailabilityTest*****************************************
+14:37:55.189 [main] INFO  Selenium.Test.Utility.Log - Index Page load
+14:37:59.698 [main] INFO  Selenium.Test.Utility.Log - Entered product name: t-shirt
+14:37:59.699 [main] INFO  Selenium.Test.Utility.Log - Search Result Page loaded
+14:37:59.783 [main] INFO  Selenium.Test.Utility.Log - Element displayed
+14:37:59.783 [main] INFO  Selenium.Test.Utility.Log - productAvailability validated successfully
+14:37:59.784 [main] INFO  Selenium.Test.Utility.Log - *********************************Ended productAvailabilityTest******************************************
+14:37:59.787 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: productAvailabilityTest null Failed******************************************
+14:37:59.787 [main] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+14:38:10.458 [main] INFO  Selenium.Test.Utility.Log - ********************************Started orderHistoryDetailLabelTest*****************************************
+14:38:10.459 [main] INFO  Selenium.Test.Utility.Log - Index Page load
+14:38:13.398 [main] INFO  Selenium.Test.Utility.Log - Clicked on Sign in button
+14:38:19.693 [main] INFO  Selenium.Test.Utility.Log - Entered Email address: test12312312312@gmail.comand password: ABC123 for login
+14:38:19.776 [main] INFO  Selenium.Test.Utility.Log - Element displayed
+14:38:19.776 [main] INFO  Selenium.Test.Utility.Log - orderHistory label validated successfully
+14:38:19.776 [main] INFO  Selenium.Test.Utility.Log - *********************************Ended orderHistoryDetailLabelTest******************************************
+14:38:19.778 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: orderHistoryDetailLabelTest null Failed******************************************
+14:38:19.779 [main] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+14:38:33.184 [main] INFO  Selenium.Test.Utility.Log - ********************************Started totalPriceTest*****************************************
+14:38:33.185 [main] INFO  Selenium.Test.Utility.Log - Index Page load
+14:38:36.363 [main] INFO  Selenium.Test.Utility.Log - Entered product name: t-shirt
+14:38:36.363 [main] INFO  Selenium.Test.Utility.Log - Search Result Page loaded
+14:38:45.443 [main] INFO  Selenium.Test.Utility.Log - Clicked on product on Search Result Page
+14:38:45.662 [main] INFO  Selenium.Test.Utility.Log - Entered quantity: 2
+14:38:46.000 [main] INFO  Selenium.Test.Utility.Log - Selected size: M
+14:38:46.156 [main] INFO  Selenium.Test.Utility.Log - Clicked on Add to Cart button
+14:38:53.758 [main] INFO  Selenium.Test.Utility.Log - Clicked on Proceed to Checkout button on Add to Cart page
+14:38:53.836 [main] INFO  Selenium.Test.Utility.Log - totalExpectedPrice validated successfully
+14:38:53.836 [main] INFO  Selenium.Test.Utility.Log - *********************************Ended totalPriceTest******************************************
+14:38:53.839 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: totalPriceTest null Failed******************************************
+14:38:53.840 [main] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+14:39:05.218 [main] INFO  Selenium.Test.Utility.Log - ********************************Started addToCartTest*****************************************
+14:39:05.219 [main] INFO  Selenium.Test.Utility.Log - Index Page load
+14:39:08.817 [main] INFO  Selenium.Test.Utility.Log - Entered product name: t-shirt
+14:39:08.817 [main] INFO  Selenium.Test.Utility.Log - Search Result Page loaded
+14:39:12.348 [main] INFO  Selenium.Test.Utility.Log - Clicked on product on Search Result Page
+14:39:12.493 [main] INFO  Selenium.Test.Utility.Log - Entered quantity: 2
+14:39:12.686 [main] INFO  Selenium.Test.Utility.Log - Selected size: M
+14:39:12.854 [main] INFO  Selenium.Test.Utility.Log - Clicked on Add to Cart button
+14:39:15.231 [main] INFO  Selenium.Test.Utility.Log - Element displayed
+14:39:15.231 [main] INFO  Selenium.Test.Utility.Log - addToCartMessage validated successfully
+14:39:15.231 [main] INFO  Selenium.Test.Utility.Log - *********************************Ended addToCartTest******************************************
+14:39:15.235 [main] ERROR Selenium.Test.Utility.Log - *********************************Test Case Failed: addToCartTest null Failed******************************************
+14:39:15.235 [main] ERROR Selenium.Test.Utility.Log - *********************************null Failed******************************************
+14:44:38.920 [main] INFO  Selenium.Test.Utility.Log - ********************************Started loginTest*****************************************
+14:44:38.958 [main] INFO  Selenium.Test.Utility.Log - Index Page load
+14:44:41.457 [main] INFO  Selenium.Test.Utility.Log - Click on SignIn
+14:44:45.632 [main] INFO  Selenium.Test.Utility.Log - Entered Email address: test12312312312@gmail.comand password: ABC123 for login
+14:44:45.649 [main] INFO  Selenium.Test.Utility.Log - Log in validated successfully
+14:44:45.649 [main] INFO  Selenium.Test.Utility.Log - *********************************Ended loginTest******************************************
+14:44:55.047 [main] INFO  Selenium.Test.Utility.Log - ********************************Started endToEndTest*****************************************
+14:44:55.047 [main] INFO  Selenium.Test.Utility.Log - Index Page load
+14:44:57.654 [main] INFO  Selenium.Test.Utility.Log - Entered product name: t-shirt
+14:44:57.654 [main] INFO  Selenium.Test.Utility.Log - Search Result Page loaded
+14:45:00.110 [main] INFO  Selenium.Test.Utility.Log - Clicked on product on Search Result Page
+14:45:00.330 [main] INFO  Selenium.Test.Utility.Log - Entered quantity: 2
+14:45:00.529 [main] INFO  Selenium.Test.Utility.Log - Selected size: M
+14:45:00.694 [main] INFO  Selenium.Test.Utility.Log - Clicked on Add to Cart button
+14:45:06.048 [main] INFO  Selenium.Test.Utility.Log - Clicked on Proceed to Checkout button on Add to Cart page
+14:45:09.718 [main] INFO  Selenium.Test.Utility.Log - Clicked on Proceed to Checkout button on Order page
+14:45:13.897 [main] INFO  Selenium.Test.Utility.Log - User logged in
+14:45:15.571 [main] INFO  Selenium.Test.Utility.Log - Clicked on Proceed to Checkout button on Shipping Page
+14:45:15.827 [main] INFO  Selenium.Test.Utility.Log - Checked Terms checkbox on Shipping Page
+14:45:18.401 [main] INFO  Selenium.Test.Utility.Log - Clicked on Proceed to Checkout button on Payment Page
+14:45:19.888 [main] INFO  Selenium.Test.Utility.Log - Clicked on Payment Method on Order Summary Page
+14:45:24.765 [main] INFO  Selenium.Test.Utility.Log - Clicked on Confirm Order button on Order Summary Page
+14:45:24.809 [main] INFO  Selenium.Test.Utility.Log - confirmOrderMessage validated successfully
+14:45:24.809 [main] INFO  Selenium.Test.Utility.Log - *********************************Ended endToEndTest******************************************
+14:45:35.610 [main] INFO  Selenium.Test.Utility.Log - ********************************Started accountCreatePageTest*****************************************
+14:45:35.611 [main] INFO  Selenium.Test.Utility.Log - Index Page load
+14:45:40.648 [main] INFO  Selenium.Test.Utility.Log - Clicked on Sign in button
+14:45:41.088 [main] INFO  Selenium.Test.Utility.Log - Entered Email address for account creation: test123123123123@test.com
+14:45:43.163 [main] INFO  Selenium.Test.Utility.Log - Element displayed
+14:45:43.163 [main] INFO  Selenium.Test.Utility.Log - createAccountFormHeader validated successfully
+14:45:43.163 [main] INFO  Selenium.Test.Utility.Log - *********************************Ended accountCreatePageTest******************************************
+14:45:53.817 [main] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+14:45:53.818 [main] INFO  Selenium.Test.Utility.Log - Index Page load
+14:45:53.826 [main] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+14:45:53.826 [main] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+14:46:05.305 [main] INFO  Selenium.Test.Utility.Log - ********************************Started productAvailabilityTest*****************************************
+14:46:05.306 [main] INFO  Selenium.Test.Utility.Log - Index Page load
+14:46:08.347 [main] INFO  Selenium.Test.Utility.Log - Entered product name: t-shirt
+14:46:08.347 [main] INFO  Selenium.Test.Utility.Log - Search Result Page loaded
+14:46:08.430 [main] INFO  Selenium.Test.Utility.Log - Element displayed
+14:46:08.430 [main] INFO  Selenium.Test.Utility.Log - productAvailability validated successfully
+14:46:08.430 [main] INFO  Selenium.Test.Utility.Log - *********************************Ended productAvailabilityTest******************************************
+14:46:18.101 [main] INFO  Selenium.Test.Utility.Log - ********************************Started orderHistoryDetailLabelTest*****************************************
+14:46:18.101 [main] INFO  Selenium.Test.Utility.Log - Index Page load
+14:46:20.776 [main] INFO  Selenium.Test.Utility.Log - Clicked on Sign in button
+14:46:24.024 [main] INFO  Selenium.Test.Utility.Log - Entered Email address: test12312312312@gmail.comand password: ABC123 for login
+14:46:24.121 [main] INFO  Selenium.Test.Utility.Log - Element displayed
+14:46:24.121 [main] INFO  Selenium.Test.Utility.Log - orderHistory label validated successfully
+14:46:24.121 [main] INFO  Selenium.Test.Utility.Log - *********************************Ended orderHistoryDetailLabelTest******************************************
+14:46:34.415 [main] INFO  Selenium.Test.Utility.Log - ********************************Started totalPriceTest*****************************************
+14:46:34.416 [main] INFO  Selenium.Test.Utility.Log - Index Page load
+14:46:34.877 [main] INFO  Selenium.Test.Utility.Log - Entered product name: t-shirt
+14:46:34.877 [main] INFO  Selenium.Test.Utility.Log - Search Result Page loaded
+14:46:50.238 [main] INFO  Selenium.Test.Utility.Log - Clicked on product on Search Result Page
+14:46:50.467 [main] INFO  Selenium.Test.Utility.Log - Entered quantity: 2
+14:46:50.662 [main] INFO  Selenium.Test.Utility.Log - Selected size: M
+14:46:50.796 [main] INFO  Selenium.Test.Utility.Log - Clicked on Add to Cart button
+14:46:57.853 [main] INFO  Selenium.Test.Utility.Log - Clicked on Proceed to Checkout button on Add to Cart page
+14:46:57.922 [main] INFO  Selenium.Test.Utility.Log - totalExpectedPrice validated successfully
+14:46:57.922 [main] INFO  Selenium.Test.Utility.Log - *********************************Ended totalPriceTest******************************************
+14:47:07.455 [main] INFO  Selenium.Test.Utility.Log - ********************************Started addToCartTest*****************************************
+14:47:07.455 [main] INFO  Selenium.Test.Utility.Log - Index Page load
+14:47:10.143 [main] INFO  Selenium.Test.Utility.Log - Entered product name: t-shirt
+14:47:10.143 [main] INFO  Selenium.Test.Utility.Log - Search Result Page loaded
+14:47:14.102 [main] INFO  Selenium.Test.Utility.Log - Clicked on product on Search Result Page
+14:47:14.297 [main] INFO  Selenium.Test.Utility.Log - Entered quantity: 2
+14:47:14.483 [main] INFO  Selenium.Test.Utility.Log - Selected size: M
+14:47:14.615 [main] INFO  Selenium.Test.Utility.Log - Clicked on Add to Cart button
+14:47:16.948 [main] INFO  Selenium.Test.Utility.Log - Element displayed
+14:47:16.948 [main] INFO  Selenium.Test.Utility.Log - addToCartMessage validated successfully
+14:47:16.948 [main] INFO  Selenium.Test.Utility.Log - *********************************Ended addToCartTest******************************************

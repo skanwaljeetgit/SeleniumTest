@@ -1,0 +1,32 @@
+12:56:59.503 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+12:56:59.503 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+12:56:59.503 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+12:56:59.545 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - Index Page load
+12:56:59.545 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - Index Page load
+12:56:59.545 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - Index Page load
+12:56:59.569 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+12:56:59.570 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+12:56:59.574 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+12:56:59.575 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+12:56:59.579 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+12:56:59.579 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+13:10:40.190 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+13:10:40.242 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - Index Page load
+13:10:40.277 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+13:10:40.278 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+13:11:11.315 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+13:11:11.318 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - Index Page load
+13:11:11.412 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+13:11:11.412 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+13:12:33.831 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+13:12:33.831 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+13:12:33.954 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - Index Page load
+13:12:33.954 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - Index Page load
+13:12:34.262 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+13:12:34.263 [TestNG-tests-1] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+13:12:34.778 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+13:12:34.778 [TestNG-tests-3] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************
+13:12:42.368 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - ********************************Started storeTitleTest*****************************************
+13:12:42.383 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - Index Page load
+13:12:42.412 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - Store title: My Store validated successfully
+13:12:42.412 [TestNG-tests-2] INFO  Selenium.Test.Utility.Log - *********************************Ended storeTitleTest******************************************

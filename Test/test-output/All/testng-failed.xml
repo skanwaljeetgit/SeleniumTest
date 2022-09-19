@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="Selenium.Test.Utility.ListenerClass"/>
+  </listeners>
+  <test thread-count="5" name="ChromeTest(failed)">
+    <parameter name="browserName" value="chrome"/>
+    <classes>
+      <class name="Selenium.Test.TestCases.IndexPageTest">
+        <methods>
+          <include name="setup"/>
+          <include name="afterSuite"/>
+          <include name="beforeSuite"/>
+          <include name="tearDown"/>
+          <include name="storeTitleTest"/>
+        </methods>
+      </class> <!-- Selenium.Test.TestCases.IndexPageTest -->
+      <class name="Selenium.Test.TestCases.AccountCreationPageTest">
+        <methods>
+          <include name="setup"/>
+          <include name="accountCreatePageTest"/>
+          <include name="afterSuite"/>
+          <include name="beforeSuite"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- Selenium.Test.TestCases.AccountCreationPageTest -->
+      <class name="Selenium.Test.TestCases.SearchResultPageTest">
+        <methods>
+          <include name="setup"/>
+          <include name="afterSuite"/>
+          <include name="beforeSuite"/>
+          <include name="tearDown"/>
+          <include name="productAvailabilityTest"/>
+        </methods>
+      </class> <!-- Selenium.Test.TestCases.SearchResultPageTest -->
+      <class name="Selenium.Test.TestCases.OrderPageTest">
+        <methods>
+          <include name="setup"/>
+          <include name="afterSuite"/>
+          <include name="beforeSuite"/>
+          <include name="tearDown"/>
+          <include name="totalPriceTest"/>
+        </methods>
+      </class> <!-- Selenium.Test.TestCases.OrderPageTest -->
+      <class name="Selenium.Test.TestCases.AddToCartPageTest">
+        <methods>
+          <include name="setup"/>
+          <include name="afterSuite"/>
+          <include name="beforeSuite"/>
+          <include name="tearDown"/>
+          <include name="addToCartTest"/>
+        </methods>
+      </class> <!-- Selenium.Test.TestCases.AddToCartPageTest -->
+      <class name="Selenium.Test.TestCases.EndToEndTest">
+        <methods>
+          <include name="setup"/>
+          <include name="afterSuite"/>
+          <include name="endToEndTest"/>
+          <include name="beforeSuite"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- Selenium.Test.TestCases.EndToEndTest -->
+      <class name="Selenium.Test.TestCases.LoginPageTest">
+        <methods>
+          <include name="setup"/>
+          <include name="afterSuite"/>
+          <include name="beforeSuite"/>
+          <include name="tearDown"/>
+          <include name="loginTest"/>
+        </methods>
+      </class> <!-- Selenium.Test.TestCases.LoginPageTest -->
+      <class name="Selenium.Test.TestCases.HomePageTest">
+        <methods>
+          <include name="setup"/>
+          <include name="afterSuite"/>
+          <include name="beforeSuite"/>
+          <include name="tearDown"/>
+          <include name="orderHistoryDetailLabelTest"/>
+        </methods>
+      </class> <!-- Selenium.Test.TestCases.HomePageTest -->
+    </classes>
+  </test> <!-- ChromeTest(failed) -->
+</suite> <!-- Failed suite [All] -->

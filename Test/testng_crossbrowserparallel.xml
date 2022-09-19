@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="CrossBrowserParallel" thread-count="5" parallel="tests">
+	<listeners>
+		<listener class-name="Selenium.Test.Utility.ListenerClass"></listener>
+	</listeners>
+	<test thread-count="5" name="ChromeTest">
+		<parameter name="browserName" value="Chrome"></parameter>
+		<classes>
+			<class name="Selenium.Test.TestCases.IndexPageTest" />
+		</classes>
+	</test>
+	<test thread-count="5" name="FirefoxTest">
+		<parameter name="browserName" value="Firefox"></parameter>
+		<classes>
+			<class name="Selenium.Test.TestCases.IndexPageTest" />
+		</classes>
+	</test>
+	<test thread-count="5" name="EdgeTest">
+		<parameter name="browserName" value="Edge"></parameter>
+		<classes>
+			<class name="Selenium.Test.TestCases.IndexPageTest" />
+		</classes>
+	</test>
+		<!-- <test thread-count="5" name="IETest"> -->
+	<!-- <classes> -->
+	<!-- <class name="com.myamazon.testcases.IndexPageTest" /> -->
+	<!-- </classes> -->
+	<!-- </test> Test -->
+</suite> <!-- Suite -->
